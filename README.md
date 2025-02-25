@@ -7,11 +7,11 @@
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/tanjina-sultana-2719a7283/">
-  <img align="left" alt="Tanjina Sultana | Linkedin" width="24px" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Tanjina Sultana | Linkedin" width="40px" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
  &nbsp;&nbsp;
   <a href="mailto:tanjina1997@yahoo.com">
-  <img align="left" alt="Tanjina Sultana | Gmail" width="26px" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+  <img align="left" alt="Tanjina Sultana | Gmail" width="40px" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 
