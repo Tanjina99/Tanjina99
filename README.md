@@ -8,7 +8,7 @@
 
   <a href="https://www.linkedin.com/in/tanjina-sultana-2719a7283/">
   <img align="left" alt="Tanjina Sultana | Linkedin" width="40px" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
-</a> &nbsp; &nbsp;
+</a> 
 <a href="mailto:tanjina1997@yahoo.com">
   <img align="left" alt="Tanjina Sultana | Gmail" width="40px" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
 </a>
@@ -33,11 +33,6 @@
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
 
-
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
----
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
 
