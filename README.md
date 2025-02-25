@@ -1,27 +1,17 @@
-### Hey Tanjina here 👋
+Hi there I'm Tanjina Sultana. 
+🌱 I'm a Software Engineer specializing in React, Next.js, and Node.js, focused on building high-performance, scalable web applications.
+🏃🏻‍♀️ Committed to personal and professional growth, aiming to make meaningful contributions to the tech community.
+🏁 Enthusiast of clean code, design patterns, solving complex problems, and scalable architectures.
+📫 How to reach me: tanjina1997@yahoo.com
 
----
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-<p align="center">
-  <img src="" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
- 
- 📚 I’m currently learning Framer Motion. One of the best library for web animation with react.
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
- 👯 I’m looking to collaborate for a 
- 
- 💬 Ask me about Full Stack Development.
-
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
-
-
----
-
+  <a href="https://www.linkedin.com/in/tanjina-sultana-2719a7283/">
+    <img align="left" alt="Tanjina Sultana | Linkedin" width="24px" src="" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:tanjina1997@yahoo.com">
+    <img align="left" alt="Tanjina Sultana | Gmail" width="26px" src="" />
+  </a>
 
 ### Tech & Tools Preference
 
