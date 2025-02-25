@@ -13,7 +13,7 @@
   <img align="left" alt="Tanjina Sultana | Gmail" width="40px" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
-
+<br/>
 
 ### Tech & Tools Preference
 
