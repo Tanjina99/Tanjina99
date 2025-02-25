@@ -1,6 +1,6 @@
 ### Hi there I'm Tanjina Sultana. 
 #### - 🌱 I'm a Software Engineer specializing in React, Next.js, and Node.js, focused on building high-performance, scalable web applications.
-#### - 🏃🏻‍♀️ Committed to personal and professional growth, aiming to make meaningful contributions to the tech community.
+#### - 🏃🏻‍♀️ Dedicated to continuous personal and professional development, with a passion for making impactful contributions to the tech community.
 #### - 🏁 Enthusiast of clean code, design patterns, solving complex problems, and scalable architectures.
 #### - 📫 How to reach me: tanjina1997@yahoo.com
 
