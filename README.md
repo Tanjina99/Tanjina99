@@ -47,7 +47,7 @@
     </td>
    
   </tr>
-</table>" />
+</table>
     </td>
    
   </tr>
