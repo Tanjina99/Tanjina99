@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Animated developer banner" />
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=36&duration=3000&color=F77F00&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Tanjina+Sultana+👋;Software+Engineer+%7C+MERN+Stack+Dev;Clean+Code+%7C+Scalable+Architectures+❤️" />
 </h1>
